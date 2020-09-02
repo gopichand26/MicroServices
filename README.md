@@ -13,4 +13,4 @@ Marks Service-8282
   --> Created table with name of marks of id,examid,sub1,sub2
 
 StudentMarks Service-8383
-  --> Obtained data from Student Service and Marks Service
+  --> Obtained data from Student Service and Marks Service 
